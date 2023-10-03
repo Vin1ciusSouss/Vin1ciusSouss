@@ -4,8 +4,8 @@
    <a href="https://github.com/Vin1ciusSouss">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vin1ciusSouss&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vin1ciusSouss&layout=compact&langs_count=6&theme=tokyonight"/>
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VinSouss&layout=compact)](https://github.com/Vin1ciusSouss/github-readme-stats)
 </div>
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vin1ciusSouss&layout=compact)](https://github.com/Vin1ciusSouss/github-readme-stats)
     
 <div style="display: inline_block">
  <br>
